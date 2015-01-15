@@ -2,6 +2,9 @@ h2 {
     color: deepskyblue;
     font-family: "Lucida Grande", "Helvetica Nueue", Arial, sans-serif;
 }
+li {
+    display: inline;
+}
 
 p {
     font-family: monospace;
@@ -9,11 +12,13 @@ p {
 
 img {
     display: block;
-    width: 70%;
-    margin-left: auto;
-    margin-right: auto;
+    width: 49%;
+    margin-right: 1%;
+    float:left;
+    margin-bottom: .5%;
 }
 
 .centerText {
-    text-align: center;
+    text-underline-position: alphabetic;
+    text-align: left;
 }
