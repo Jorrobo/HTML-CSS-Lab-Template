@@ -4,6 +4,7 @@ h2 {
 }
 li {
     display: inline;
+    font-size: 100%;
 }
 
 p {
@@ -27,7 +28,7 @@ img {
     text-align: left;
     font-weight: bold;
     color: Black;
-    font-size-adjust: 2;
+    font-size: 20px;
 }
 #img1 {
     display: block;
@@ -37,7 +38,7 @@ img {
 
 #paragraph p{
     color: dodgerblue;
-    font-size-adjust: 1;
+    font-size: 30px;
 }
 
 #heading {
